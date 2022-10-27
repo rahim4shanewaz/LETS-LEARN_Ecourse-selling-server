@@ -1,0 +1,60 @@
+[
+{
+"id": 2,
+"title": "PhotoGraphy",
+"price": 3200,
+"description": "Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film.",
+"duration": 6,
+"image": "https://images.unsplash.com/photo-1554080353-321e452ccf19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+"rating":5
+},
+{
+"id": 3,
+"title": "Script Writing",
+"price": 28000,
+"description": "Script writing (or screenwriting) is the process of writing stories in the screenplay medium. Script writing is writing down the movement, actions, expression and dialogue of the characters in screenplay, in screenplay format. The process of writing a novel, a poem, or essay, is entirely different than script writing.",
+"duration": 3,
+"image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+"rating":4.5
+},
+{
+"id": 4,
+"title": "Video Editing",
+"price": 30000,
+"description": "A Video Editor is a professional who is responsible for taking the raw footage shot by a film crew and director, then turning it into one cohesive video or film. The Video Editor must follow an outline and script and any special instructions given about what should happen in each scene.",
+"duration": 6,
+"image": "https://images.unsplash.com/photo-1605826832916-d0ea9d6fe71e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+"rating":5
+},
+{
+"id": 5,
+"title": "Composing Music",
+"price": 25000,
+"description": "musical composition, the act of conceiving a piece of music, the art of creating music, or the finished product. These meanings are interdependent and presume a tradition in which musical works exist as repeatable entities. In this sense, composition is necessarily distinct from improvisation.",
+"duration": 4,
+"image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+"rating":4.5
+},
+{
+"id": 6,
+"title": "Cinematography",
+"price": 55000,
+"description": "Cinematography, the art and technology of motion-picture photography. It involves such techniques as the general composition of a scene; the lighting of the set or location; the choice of cameras, lenses, filters, and film stock; the camera angle and movements; and the integration of any special effects.",
+"duration": 8,
+"image": "https://images.unsplash.com/photo-1602261320832-b087fc36979a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+"rating":4.4
+},
+{
+"id": 7,
+"title": "Art Direction",
+"price": 50000,
+"description": "Art directors are responsible for the overall visual aspects of an advertising or media campaign and coordinate the work of other artistic or design staff, such as graphic designers. In publishing, art directors typically oversee the page layout of catalogs, newspapers, or magazines.",
+"duration": 3,
+"image": "https://images.unsplash.com/photo-1565476599063-a9b93037c7f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=816&q=80",
+"rating":4
+
+}
+
+
+
+]
