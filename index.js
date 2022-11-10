@@ -7,10 +7,14 @@ const Port = process.env.Port || 5000;
 
 
 
+
+
 const productsCollection = require("./Data/product.json");
 app.get("/allProducts", (req, res) => {
     res.send(productsCollection);
   });
+
+// get data
 
 app.get("/product/:id", (req, res) => {
   const id = req.params.id;
